@@ -45,7 +45,6 @@ public class binarysearch {
         } else {
             System.out.println("Element not found");
         }
-
-        sc.close();
     }
 }
+
